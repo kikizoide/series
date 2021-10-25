@@ -1,0 +1,14 @@
+C:\Users\P22\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.csproj.AssemblyReference.cache
+C:\Users\P22\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P22\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfoInputs.cache
+C:\Users\P22\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.AssemblyInfo.cs
+C:\Users\P22\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.csproj.CoreCompileInputs.cache
+C:\Users\P22\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.exe
+C:\Users\P22\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.deps.json
+C:\Users\P22\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.json
+C:\Users\P22\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.runtimeconfig.dev.json
+C:\Users\P22\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.dll
+C:\Users\P22\source\repos\Series\Series\bin\Debug\netcoreapp3.1\Series.pdb
+C:\Users\P22\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.dll
+C:\Users\P22\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.pdb
+C:\Users\P22\source\repos\Series\Series\obj\Debug\netcoreapp3.1\Series.genruntimeconfig.cache
